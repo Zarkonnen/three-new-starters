@@ -1,0 +1,4 @@
+system Sol
+    add fleet "Joyriders" 2000
+system "Alpha Centauri"
+    add fleet "Joyriders" 3000

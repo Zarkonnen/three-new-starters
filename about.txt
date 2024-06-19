@@ -1,0 +1,2 @@
+Three New Starters
+Adds three additional starter ships: a passenger transport, a mining vessel, and an ultra-cheap tin can.

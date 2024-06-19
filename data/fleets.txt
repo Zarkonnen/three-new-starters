@@ -1,0 +1,54 @@
+fleet "Small Core Merchants"
+    add variant 10
+        "SpaceJumper"
+    add variant 50
+        "Starbus"
+    add variant 5
+        "Prisoner Starbus"
+        "Sparrow" 2
+    add variant 5
+        "Delver"
+
+fleet "Human Miners"
+    add variant 40
+        "Delver"
+    add variant 3
+        "Sunder"
+        "Mining Drone" 2
+        "Delver" 2
+
+fleet "Paradise Merchants"
+    add variant 5
+        "Delver"
+    add variant 50
+        "Luxury Starbus"
+
+fleet "Small Northern Merchants"
+    add variant 25
+        "Starbus"
+    add variant 5
+        "Starbus" 3
+        "Sparrow"
+    add variant 5
+        "Prisoner Starbus"
+        "Sparrow" 2
+
+fleet "Small Southern Merchants"
+    add variant 25
+        "Starbus"
+    add variant 5
+        "Starbus" 3
+        "Sparrow"
+    add variant 5
+        "Prisoner Starbus"
+        "Sparrow" 2
+
+fleet "Joyriders"
+    government "Merchant"
+    names "civilian"
+    cargo 0
+    personality
+        confusion 40
+        pacifist
+    variant
+        "SpaceJumper"

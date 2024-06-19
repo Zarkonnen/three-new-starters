@@ -1,0 +1,20 @@
+ship "Starbus" "Luxury Starbus"
+	outfits
+		"D14-RN Shield Generator"
+		Hyperdrive
+		"LP036a Battery Pack"
+		"X2200 Ion Steering"
+		"X2700 Ion Thruster"
+		"nGVF-AA Fuel Cell"
+		"Luxury Accommodations"
+
+ship "Starbus" "Prisoner Starbus"
+	outfits
+		"D14-RN Shield Generator"
+		Hyperdrive
+		"LP036a Battery Pack"
+		"X2200 Ion Steering"
+		"X2700 Ion Thruster"
+		"nGVF-AA Fuel Cell"
+		"Brig"
+		"Small Radar Jammer"

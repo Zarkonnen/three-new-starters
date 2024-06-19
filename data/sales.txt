@@ -1,0 +1,7 @@
+shipyard "Basic Ships"
+    "SpaceJumper"
+    "Delver"
+    "Starbus"
+
+outfitter "Basic Outfits"
+    "Low-Power Asteroid Scanner"
