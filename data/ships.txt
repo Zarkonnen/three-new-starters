@@ -1,4 +1,4 @@
-ship "SpaceJumper"
+ship "Space Jumper"
 	sprite "ship/spacejumper"
 	thumbnail "thumbnail/spacejumper"
 	attributes
@@ -22,9 +22,8 @@ ship "SpaceJumper"
 		"LP036a Battery Pack"
 		
 	engine 0 19
-		under
 	explode "tiny explosion" 10
-	description `The StarGate Inc. SpaceJumper is the smallest craft capable of fitting a hyperdrive. It's sold in kit form and advertised to "everyone who ever wanted their own spaceship". Most buyers who manage to assemble the ship make one terrifying trip to Alpha Centauri and back, and then sell the thing for scrap.`
+	description `The StarGate Inc. Space Jumper is the smallest craft capable of fitting a hyperdrive. It's sold in kit form and advertised to "everyone who ever wanted their own spaceship". Most buyers who manage to assemble the ship make one terrifying trip to Alpha Centauri and back, and then sell the thing for scrap.`
 
 ship "Delver"
 	sprite "ship/delver"
@@ -55,16 +54,13 @@ ship "Delver"
 		"nGVF-BB Fuel Cell"
 		
 	engine 0 39
-		under
 	gun -6 -39
-		under
 	gun 6 -39
-		under
 	leak leak 60 50
 	explode "small explosion" 5
 	explode "tiny explosion" 10
 	description `A bare-bones asteroid mining ship derived from the popular Sunder class. Comfort and cargo space have been sacrificed for the ability to mount two mining lasers.`
-	description `	The ship is manufactured and marketed by a subsidiary of Syndicated Shipyards, who boast that it comes with an asteroid scanner as standard. Which is true, but it's a woefully underpowered entry-level device.`
+	description `	The ship is manufactured and marketed by a subsidiary of Syndicated Shipyards, who boast that it comes with an asteroid scanner as standard. That is true, but it's a woefully underpowered entry-level device.`
 
 ship "Starbus"
 	plural "Starbuses"
@@ -76,7 +72,7 @@ ship "Starbus"
 		mass 100
 		bunks 11
 		"cargo space" 10
-		drag 1.65
+		drag 1.75
 		"engine capacity" 70
 		"fuel capacity" 600
 		"heat dissipation" 0.8
@@ -95,4 +91,4 @@ ship "Starbus"
 	engine 0 63
 	explode "small explosion" 5
 	explode "small explosion" 10
-	description `A small passenger craft popular in the core systems for ferrying around middle-class people in moderate discomfort. Syndicated Shipyards advertises that travelling in a Starbus hearkens back to the first golden age of air travel on Earth, whatever that might mean.`
+	description `A small passenger craft popular in the Core systems for ferrying around middle-class people in moderate discomfort. Syndicated Shipyards advertises that travelling in a Starbus hearkens back to the first golden age of air travel on Earth.`
