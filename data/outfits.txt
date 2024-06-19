@@ -5,4 +5,4 @@ outfit "Low-Power Asteroid Scanner"
 	"mass" 4
 	"outfit space" -4
 	"asteroid scan power" 10
-	description "A basic asteroid scanning system able to slowly evaluate nearby asteroids."
+	description "A basic asteroid scanning system able to slowly evaluate the contents of nearby asteroids."
