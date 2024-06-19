@@ -1,4 +1,4 @@
-ship "Space Jumper"
+ship "SpaceJumper" 
 	sprite "ship/spacejumper"
 	thumbnail "thumbnail/spacejumper"
 	attributes
@@ -23,7 +23,7 @@ ship "Space Jumper"
 		
 	engine 0 19
 	explode "tiny explosion" 10
-	description `The StarGate Inc. Space Jumper is the smallest craft capable of fitting a hyperdrive. It's sold in kit form and advertised to "everyone who ever wanted their own spaceship". Most buyers who manage to assemble the ship make one terrifying trip to Alpha Centauri and back, and then sell the thing for scrap.`
+	description `The StarGate Inc. SpaceJumper is the smallest craft capable of fitting a hyperdrive. It's sold in kit form and advertised to "everyone who ever wanted their own spaceship". Most buyers who manage to assemble the ship make one terrifying trip to Alpha Centauri and back, and then sell the thing for scrap.`
 
 ship "Delver"
 	sprite "ship/delver"
