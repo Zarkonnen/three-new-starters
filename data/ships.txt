@@ -1,4 +1,4 @@
-ship "SpaceJumper" 
+ship "SpaceJumper"
 	sprite "ship/spacejumper"
 	thumbnail "thumbnail/spacejumper"
 	attributes
